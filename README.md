@@ -4,7 +4,7 @@ Welcome to the **Good Fortune Game**! This simple web application presents a ran
 
 ## Demo
 
-You can view the live demo of the game at: [Live Demo Link](https://<your-username>.github.io/<repository-name>/)
+You can view the live demo of the game at: [Live Demo Link](https://kadambinipanda.github.io/good-fortune-game/)
 
 ## Features
 
