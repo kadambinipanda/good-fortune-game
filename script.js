@@ -5,7 +5,6 @@ const fortunes = [
     "You are capable of achieving anything you desire.",
     "Your hard work will pay off.",
     "Expect great things to happen!",
-    "You will soon receive an important message.",
     "Great job! Your hard work is about to pay off. Stay positive and keep pushing forward!",
     "Victory is just around the corner! Trust your instincts, and fortune will follow.",
     "You've shown great skill! Remember, success is not just a destination; it's a journey. Keep going!",
